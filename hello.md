@@ -1,1 +1,1 @@
-### Esto (es un conflicto) en un archivo tope de forkeado desde TheRedosan
+### Esto (es un conflicto) en a archivo tope de forkeado desde TheRedosan
